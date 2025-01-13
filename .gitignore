@@ -3,6 +3,7 @@ dataset
 
 # If the dataset is a directory and you want to ensure all its contents are ignored
 dataset/
+.idea/
 
 # Ignore specific types of files within the dataset directory (optional)
 dataset/*.jpg
