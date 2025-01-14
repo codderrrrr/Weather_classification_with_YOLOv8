@@ -5,10 +5,11 @@ dataset
 dataset/
 .idea/
 .venv/
-
+prediction_dataset/
 # Ignore specific types of files within the dataset directory (optional)
 dataset/*.jpg
 dataset/*.png
-
+prediction_dataset/*.jng
+prediction_dataset/*.png
 # Ensure .gitignore itself is not ignored
 !.gitignore
