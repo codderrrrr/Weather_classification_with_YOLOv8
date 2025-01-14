@@ -1,0 +1,60 @@
+[33mcommit 31e5495112496e3b4979e1878cc1f1713dd4c6b1[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Merge: 1ad9a5d 947f78d
+Author: Saad <saadwaqar118@gmail.com>
+Date:   Tue Jan 14 21:17:25 2025 +0500
+
+    Merge branch 'main' of https://github.com/codderrrrr/Weather_classification_with_YOLOv8
+
+[33mcommit 947f78db78fcd1a346ae0566daba930a5d9ef9c2[m
+Author: codderrrrr <149995852+codderrrrr@users.noreply.github.com>
+Date:   Tue Jan 14 21:06:52 2025 +0500
+
+    Initial commit
+
+[33mcommit 1ad9a5de1377b1d5a5afc9150d4f46453ca45ef8[m
+Author: Saad <saadwaqar118@gmail.com>
+Date:   Tue Jan 14 21:04:52 2025 +0500
+
+    Predicted images
+
+[33mcommit 6fe39deb189fdf9c16fa8c259d7494e36e5e6384[m
+Author: Saad <saadwaqar118@gmail.com>
+Date:   Tue Jan 14 02:59:21 2025 +0500
+
+    Remove .idea directory from tracking
+
+[33mcommit db05660a1cdacc5a72a3d678a7af578e1aedb1a5[m
+Author: Saad <saadwaqar118@gmail.com>
+Date:   Tue Jan 14 02:58:35 2025 +0500
+
+    Update .gitignore
+
+[33mcommit 7a5d5fd31a08477cd0be59ff105c199c25f77eb4[m
+Author: Saad <saadwaqar118@gmail.com>
+Date:   Tue Jan 14 02:57:10 2025 +0500
+
+    Remove virtual environment from tracking
+
+[33mcommit 025f96bdde6bef3ce0fa14804e2d8c401d382f50[m
+Author: Saad <saadwaqar118@gmail.com>
+Date:   Tue Jan 14 02:50:56 2025 +0500
+
+    Commited run files
+
+[33mcommit 63da262c2267e798f6b2cdda3ad8b8ad738ed359[m
+Author: Saad <saadwaqar118@gmail.com>
+Date:   Tue Jan 14 02:43:30 2025 +0500
+
+    Model trained
+
+[33mcommit d9fb9e83a9e3f1c03ec9fbe73acdc36ffde2d1b6[m
+Author: Saad <saadwaqar118@gmail.com>
+Date:   Tue Jan 14 02:37:11 2025 +0500
+
+    Loaded yolov8 model
+
+[33mcommit 12b4321247f7e1f8ad5e688af26393a3101eca81[m
+Author: Saad <saadwaqar118@gmail.com>
+Date:   Tue Jan 14 01:18:47 2025 +0500
+
+    Added .gitignore file
